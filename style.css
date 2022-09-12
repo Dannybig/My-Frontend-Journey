@@ -1,0 +1,107 @@
+body {
+    background-color: #EAF6F6;
+}
+.text {
+    margin-top: 100px;
+    font-size: 70px;
+    margin-left: 60px;
+    color: blue;
+    font-family: 'Courier New', monospace;
+    max-width: 500px;
+}
+.the {
+    font-size: 40px;
+    font-family: 'Brush Script MT', cursive;
+    margin-right: -25px;
+}
+.crew {
+    margin-left: 700px;
+    background-color: white;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: -350px;
+    border-style: solid;
+    border-color: blue;
+}
+.tommy, .hizzy, .danny, .alimi {
+    font-size: x-large;
+    margin-left: 20px;
+}
+.smalltext {
+    color: black;
+    font-size: 20px;
+}
+.mandem {
+    color: black;
+    font-size: 20px;
+    margin-top: -50px;
+}
+.atd, .oma, .aa, .dan {
+    transition: transform .2s;
+    width: 150px;
+}
+.atd:hover {
+    transform: scale(1.2);
+}
+.oma:hover {
+    transform: scale(1.2);
+}
+.dan:hover {
+    transform: scale(1.2);
+}
+.aa:hover {
+    transform: scale(1.2);
+}
+.tommywebpage {
+    margin-left: 450px;
+    margin-top: 150px;
+}
+.hizzywebpage {
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.dannywebpage {
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.alimiwebpage {
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.tommywebimage, .hizzywebimage, .dannywebimage, .alimiwebimage {
+    width: 400px;
+}
+.alimiwebimage:hover {
+    transform: scale(1.2);
+}
+.tommywebimage:hover {
+    transform: scale(1.2);
+}
+.hizzywebimage:hover {
+    transform: scale(1.2);
+}
+.dannywebimage:hover {
+    transform: scale(1.2);
+}
+.dannywebtext {
+    font-size: xx-large;
+    margin-left: 50px;
+}
+.tommywebtext {
+    margin-left: -10px;
+    font-size: xx-large;
+}
+.hizzywebtext {
+    font-size: xx-large;
+    margin-left: 70px;
+}
+.alimiwebtext {
+    font-size: xx-large;
+    margin-left: 100px;
+}
+hr {
+    border: none none none 2px;
+    width: 50%;
+    border-style: dotted;
+}
